@@ -4,6 +4,6 @@ Yang harus di pelajari adalah :
 - Belajar Devops
 - Belajar Bahasa Korea
 - Belajar Git
-- Belajar Github
 - Belajar python
 - Belajar Bash
+- Belajar Docker
