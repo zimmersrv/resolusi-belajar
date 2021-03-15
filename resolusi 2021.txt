@@ -2,11 +2,15 @@ Resolusi Belajar 2021
 
 Yang harus di pelajari adalah :
 - Belajar Devops
-- Belajar Bahasa Korea
 - Belajar Git
 - Belajar python
 - Belajar Bash
 - Belajar Docker
+- Belajar Kubernetes
+- Belajar Jenkins
+- Belajar Keluarga Git
+- Belajar Ansible
+- Belajar Cloud
 
 soft skills :
 - belajar dengan sungguh sungguh
